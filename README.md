@@ -1,3 +1,7 @@
+## Packages used: Formik, Yup, Toastify
+## CSS Framework used: Tailwind CSS
+## Framework: ReactJS
+
 # Frontend Mentor - Contact form
 
 ![Design preview for the Contact form coding challenge](./design/desktop-preview.jpg)
